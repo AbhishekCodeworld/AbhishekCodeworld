@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning TypeScript, CSS, Raect, Node js and MongoDB
 - 💞️ I’m looking to collaborate on cool projects on MERN Stack.
 - 📫 You can reach out to me on my mail Abhibajpai79@gmail.com or my contact no. 9695745169
+- My other Account is https://github.com/abhishek-world
 
 <!---
 AbhishekCodeworld/AbhishekCodeworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
